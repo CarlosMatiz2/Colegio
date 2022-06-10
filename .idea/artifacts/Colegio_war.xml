@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Colegio:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Colegio</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Colegio-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Colegio:war exploded" />
+    </root>
+  </artifact>
+</component>
